@@ -1,1 +1,0 @@
-this is javascript coding that written in next js 
